@@ -19,3 +19,9 @@ execute:
 ---
 
 ![](images/clipboard-181300862.png)
+
+# Appendix
+
+- [GitHub Repo](https://github.com/lewiswaddell/M01-2.Part2.git)
+
+- [GitHub Pages](https://lewiswaddell.github.io/M01-2.Part2/)
