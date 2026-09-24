@@ -1,10 +1,9 @@
 ---
 title: "Qualtrics M01-2 (Customizing the Survey) (Qualtrics Assignment #1)"
 author: "Leeann Lewis-Waddell"
-date: today
+date: '`r format(Sys.time())`'
 format: 
   html: 
-    self-contained: true
     toc: true
     toc-depth: 4
     number-sections: true
