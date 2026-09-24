@@ -18,7 +18,9 @@ execute:
   warning: false
 ---
 
-![](images/clipboard-181300862.png)
+# Completed Survey
+
+![](images/clipboard-181300862.png){width="800"}
 
 # Appendix
 
