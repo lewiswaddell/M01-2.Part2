@@ -1,0 +1,21 @@
+---
+title: "Qualtrics M01-2 (Customizing the Survey) (Qualtrics Assignment #1)"
+author: "Leeann Lewis-Waddell"
+date: today
+format: 
+  html: 
+    self-contained: true
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-line-numbers: true
+    code-fold: false
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+  warning: false
+---
+
+![](images/clipboard-181300862.png)
